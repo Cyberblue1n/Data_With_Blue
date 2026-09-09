@@ -1,7 +1,5 @@
-## Excel Problem Solving - Interview based
-## Problems
+# Excel Problem Solving - Interview based
 
-## Problems
 
 | # | Problem Type | Difficulty | File | YouTube | Instagram |
 |---|---------|------------|------|---------|-----------|
