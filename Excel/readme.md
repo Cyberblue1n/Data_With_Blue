@@ -3,6 +3,7 @@
 
 ## Problems
 
-| # | Problem | Type | Difficulty | File | YouTube | Instagram |
-|---|---------|------|------------|------|---------|-----------|
-| 1 | Basic Calculations | Basic Excel | Very Easy | [Problem1.xlsx](./Problem1.xlsx) | [Solution](YOUR_YOUTUBE_LINK) | [Reel](YOUR_INSTAGRAM_LINK) |
+| # | Problem Type | Difficulty | File | YouTube | Instagram |
+|---|---------|------------|------|---------|-----------|
+| 1 | Basic Calculations | Very Easy | [Problem1.xlsx](./Problem1.xlsx) | [Solution](yt_link) | [Reel](insta_link) |
+| 2 | 
