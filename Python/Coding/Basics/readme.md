@@ -1,3 +1,3 @@
-| Problem | Difficulty | Solution |
+| Problem | Topic | Solution |
 |---|---|---|
 |   |    |    |
